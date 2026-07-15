@@ -1,5 +1,6 @@
 ﻿using EcommerceBehzad.Domain.Entities;
 using EcommerceBehzad.Domain.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
 namespace EcommerceBehzad.Infrastructure.Persistence.Repositories
 {

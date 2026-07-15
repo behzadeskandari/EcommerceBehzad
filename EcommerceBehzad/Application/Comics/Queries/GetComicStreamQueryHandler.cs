@@ -1,6 +1,7 @@
 ﻿using EcommerceBehzad.Domain.Interfaces;
 using EcommerceBehzad.Infrastructure.Persistence;
 using MediatR;
+using Microsoft.EntityFrameworkCore;
 
 namespace EcommerceBehzad.Application.Comics.Queries
 {
